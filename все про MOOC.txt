@@ -1,0 +1,27 @@
+MOOC агрегаторы
+Class-Central
+MOOC list
+Learning Advisor
+Open Education Europe
+codeschool
+codecademy
+CourseBuffet
+Mooctivity
+CourseTalk
+MyEducationPath
+coursefinder
+Online-courses.startclass
+ mooc-francophone
+==
+MOOC платформы
+Coursera
+udemy
+EdX
+Miriada X
+FUN
+OpenSAP
+Futurelearn
+==
+
+
+

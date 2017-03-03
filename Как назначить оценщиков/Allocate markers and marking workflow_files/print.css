@@ -1,0 +1,66 @@
+@page {
+	size: a4 portrait;
+	margin: 2cm 1cm 1.5cm 1cm;
+
+	@bottom-left {
+		content: string(doctitle);
+		font-size: 6.5pt;
+		border-top: solid black thin;
+	}
+	
+	@bottom-right {
+		content: "Page " counter(page) " of " counter(pages);
+		font-size: 6.5pt;
+		border-top: solid black thin;
+	}
+}
+
+@page:first {
+	@top-left {
+		content: url(http://vle.monash.edu.au/assets/images/logo.gif);
+		margin-left: -0.5cm;
+	}
+	@top-right {
+		content: url(http://vle.monash.edu.au/assets/images/logo-moodle.gif);
+		margin-left: -0.5cm;
+	}	
+}
+
+#accessibility, 
+#global-header,
+#global-images,
+#breadcrumbs,
+#pdfprint,
+.section-nav-body,
+.dontprint,
+#section-nav,
+#section-nav-footer,
+#footer, 
+#section-nav-footer {
+	display: none;
+}
+
+body {
+	page-break-before: avoid;
+	min-width: 18.0cm;
+	max-width: 19.0cm;
+}
+h1 {
+	color:white;
+	background-color:#339;
+	padding:.2em;
+	margin-bottom:4px;
+	string-set: doctitle content();
+}
+
+ol,
+ul,
+p {
+	font-size: 10pt;
+	margin-top: 0;
+}
+
+hr {
+	margin-bottom:0.4cm;
+	margin-top:0.4cm;
+}

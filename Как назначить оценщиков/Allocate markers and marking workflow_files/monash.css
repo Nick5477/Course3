@@ -1,0 +1,40 @@
+@import url("base.css");
+
+/* base stylesheet for safari */
+
+body {
+    font-size: 100%;
+}
+
+#global-header {
+    width: 100%;
+}
+
+#global-utils-form {
+    width: 22em;
+}
+
+.main-nav ul, .quicklinks-nav ul {
+	padding-left: 0.5em;
+}
+
+.main-nav li, .quicklinks-nav li {
+	padding: 0.11em;
+}
+
+#highlight-top, .highlight {
+	padding: 0.25em;
+}
+
+.highlight-body ul, .section-nav-body ul  {
+	margin-left: -0.5em;
+	background: transparent;
+}
+
+.highlight-body li, .section-nav-body li  {
+	padding: 0.11em;
+}   
+
+.sitemap-light-body ul, .sitemap-dark-body ul, .nobullet {
+	margin-left: -2em;
+}
