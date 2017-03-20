@@ -1,0 +1,66 @@
+﻿4, 5, 10, 12, 14, 15, 16];
+
+II
+И8, И10, И11, И12, И15, И16, И17, И18, И19, И20, И21, И25, И26, И31, И32, И34, И36, И37, И40, И41
+III
+И1, И2, И9, И22, И28, И29
+И1
+A case for ordinal peer-evaluation in MOOCs / Shah N.B. [et al.]. Proc. of the NIPS '13. P. 1-10.
+И2
+A factorization approach to evaluate open-response assignments in MOOCs using preference learning on peer assessments / Luaces O. [et al.]. KBS. 2015. Vol. 85. P. 322-328.
+И22
+Caragiannis I., Krimpas G.A., Voudouris A.A. Aggregating Partial Rankings with Applications to Peer Grading in Massive Online Open Courses. Proc. of the AAMAS '15. 2015. P. 675-683.
+Mi F., Yeung D.Y. Probabilistic Graphical Models for Boosting Cardinal and Ordinal Peer Grading in MOOCs. Proc. of the AAAI ’15. 2015. P. 454-460.
+И28
+Raman K., Joachims T. Bayesian Ordinal Peer Grading. Proc. of the L@S '15. 2015. P. 149-156.
+И29
+Raman K., Joachims T. Methods for ordinal peer grading. Proc. of the KDD '14. 2014. P. 1037-1046.
+==
+И8
+Billingsley W., Steel J.R.H. Towards a supercollaborative software engineering MOOC. Proc. of the ICSE Companion '14. 2014. P. 283-286.
+И10
+Chinmay E.K., Michael S.B., Scott R.K. PeerStudio: Rapid Peer Feedback Emphasizes Revision and Improves Performance. Proc. of the L@S '15. 2015. P. 75-84.
+И11
+Das A.K., Das A., Das S. Present Status of Massive Open Online Course (MOOC) initiatives for Open Education Systems in India–An Analytical Study. AJ MS. 2015. Vol. 3.
+Iss. 7. P. 67-80.
+И12
+Does MOOC really work effectively / Di Chen [et al.]. Proc. of the MITE '14. 2014. P. 272-277.
+И15
+Game theory based peer grading mechanisms for MOOCs / Wu W. [et al.]. Proc. of the L@S '15. 2015. P. 281-286.
+И16
+Grading the Graders: Motivating Peer Graders in a MOOC / Lu Y. [et al.]. Proc. of the WWW '15. 2015. P. 680-690.
+И17
+Incentivizing Peer Grading in MOOCS: an Audit Game Approach / Carbonara A. [et al.]. Proc. of the IJCAI '15. 2015. P. 497-503.
+И18
+Investigating Incentives for Students to Provide Peer Feedback in a Semi-Open Online Course: An Experimental Study / Neubaum G. [et al.]. Proc. of the OpenSym '14. 2014. doi:10.1145/2641580.2641604.
+И19
+Jordan K. Massive open online course completion rates revisited: Assessment, length and attrition // IRRODL. 2015. Vol. 16. N. 3. P. 341-358.
+И20
+León-Urrutia M., Davis H. Challenges in the Creation, Development and Implementation of MOOCs: Web Science Course at the University of Southampton. Comunicar. 2015. Vol. XXI. №. 44. P. 37-43
+И21
+Luo H., Robinson A.C., Park J.-Y. Peer grading in a MOOC: Reliability, validity, and perceived effects. JALN. 2014. Vol. 18, Iss. 2. P. 1-14.
+И25
+Onah D.F.O., Sinclair J., Boyatt R. Dropout rates of massive open online courses: behavioural patterns. Proc. of the EDULEARN '14. P. 1-10.
+И26
+Peer assessment in MOOCs using preference learning via matrix factorization / Dıez J. [et al.]. Proc. of the NIPS '13. 2013. P. 1-6.
+И31
+Sánchez-Vera M.M., Prendes-Espinosa M.P. Beyond objective testing and peer assessment: alternative ways of assessment in MOOCs. RUSC. 2015. Vol. 12. Iss. 1. P. 119-130.
+И32
+Sandeen C. Integrating MOOCS into traditional higher education: the emerging “MOOC 3.0” Era. MHL. 2013. Vol. 45. Iss. 6. P. 34-39.
+И34
+Shih T.K., Chiou Yi. Auto Grouping and Peer Grading System in Massive Open Online Course MOOC. IJ DET. 2015. Vol. 13. Iss. 3. P. 25-43.
+И36
+The Effect of Peer Assessment Rubrics on Learners' Satisfaction and Performance within a Blended MOOC Environment / Yousef A.M.F. [et al.]. Proc. of the CSEDU '15. 2015. P. 148-159.
+И37
+Tuned models of peer assessment in MOOCs / Piech C. [et al.]. Proc. of the EDM '13. 2013. P. 153-160.
+И40
+Walsh T. The PeerRank method for peer assessment. Proc. of the ECAI '14. 2014. P. 909–914.
+И41
+Wei Z., Wu W. A Peer Grading Tool for MOOCs on Programming. Proc. of the ICYCSEE '15. 2015. P. 378-385
+
+==
+IEEE Xplorer
+ACM DL
+===
+
+
